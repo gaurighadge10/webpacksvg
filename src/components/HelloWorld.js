@@ -9,6 +9,7 @@ const HelloWorld = () => {
     <div>
  
       <h1>Hello World</h1>
+      <h2>hiiiiiiiiiiiiii</h2>
     </div>
     {/* <img src={Call} alt="BigCo Inc. logo"/>
     <img src={Arrow} alt="No arrow "/>
